@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/Event.cpp \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../base/Event.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../common/basic_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../common/common.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../../../config.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../common/stdmap.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../common/stdpre.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../common/stdpost.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../base/EventQueue.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../mt/CondVar.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../mt/Mutex.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../arch/IArchMultithread.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../common/IInterface.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../base/IEventQueue.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../base/String.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../common/stdstring.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../base/PriorityQueue.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../common/stdvector.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../base/Stopwatch.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/base/../common/stdset.h

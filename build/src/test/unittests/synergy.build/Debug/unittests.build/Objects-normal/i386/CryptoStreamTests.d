@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/synergy/CryptoStreamTests.cpp \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../test/mock/io/MockStream.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/io/IStream.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/IInterface.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/common.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../../config.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/base/Event.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/basic_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdmap.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdpre.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdpost.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/base/IEventQueue.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/base/String.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdstring.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/base/EventTypes.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../test/global/gmock.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../test/mock/synergy/MockEventQueue.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/synergy/PacketStreamFilter.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/io/StreamFilter.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/io/StreamBuffer.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdlist.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdvector.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/mt/Mutex.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/arch/IArchMultithread.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/io/CryptoStream.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/io/CryptoMode.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/io/ECryptoMode.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/io/CryptoMode_cryptopp.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/io/CryptoStream_cryptopp.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/io/CryptoOptions.h

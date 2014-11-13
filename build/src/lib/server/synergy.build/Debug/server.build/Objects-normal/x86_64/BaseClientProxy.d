@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/BaseClientProxy.cpp \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../server/BaseClientProxy.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../synergy/IClient.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../synergy/clipboard_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../common/basic_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../common/common.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../../../config.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../synergy/IScreen.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../base/Event.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../common/stdmap.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../common/stdpre.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../common/stdpost.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../base/EventTypes.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../common/IInterface.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../synergy/key_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../synergy/mouse_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../synergy/option_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../common/stdvector.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../base/String.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/server/../common/stdstring.h

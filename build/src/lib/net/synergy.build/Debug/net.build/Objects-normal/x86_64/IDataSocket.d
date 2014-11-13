@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/IDataSocket.cpp \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../net/IDataSocket.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../net/ISocket.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../common/IInterface.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../common/common.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../../../config.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../base/Event.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../common/basic_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../common/stdmap.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../common/stdpre.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../common/stdpost.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../base/EventTypes.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../io/IStream.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../base/IEventQueue.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../base/String.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../common/stdstring.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../base/EventQueue.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../mt/CondVar.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../mt/Mutex.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../arch/IArchMultithread.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../base/PriorityQueue.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../common/stdvector.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../base/Stopwatch.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/net/../common/stdset.h

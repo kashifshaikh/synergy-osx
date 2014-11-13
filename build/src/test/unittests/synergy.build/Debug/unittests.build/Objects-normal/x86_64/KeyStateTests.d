@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/synergy/KeyStateTests.cpp \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../test/unittests/synergy/KeyStateTests.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/synergy/KeyState.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/synergy/IKeyState.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/synergy/key_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/base/EventTypes.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/base/Event.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/basic_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/common.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../../config.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdmap.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdpre.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdpost.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/base/String.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdstring.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/base/IEventQueue.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/IInterface.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdset.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/synergy/KeyMap.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdvector.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../test/global/gmock.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../test/mock/synergy/MockEventQueue.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../test/mock/synergy/MockKeyMap.h

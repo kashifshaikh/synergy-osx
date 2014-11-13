@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/PacketStreamFilter.cpp \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../synergy/PacketStreamFilter.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../io/StreamFilter.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../io/IStream.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../common/IInterface.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../common/common.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../../../config.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../base/Event.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../common/basic_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../common/stdmap.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../common/stdpre.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../common/stdpost.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../base/IEventQueue.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../base/String.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../common/stdstring.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../base/EventTypes.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../io/StreamBuffer.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../common/stdlist.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../common/stdvector.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../mt/Mutex.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../arch/IArchMultithread.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../mt/Lock.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../base/TMethodEventJob.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/synergy/../base/IEventJob.h

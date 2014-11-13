@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/IpcClient.cpp \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../ipc/IpcClient.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../net/NetworkAddress.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../base/String.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../common/common.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../../../config.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../common/stdstring.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../common/stdpre.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../common/stdpost.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../base/EventTypes.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../base/Event.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../common/basic_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../common/stdmap.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../arch/IArchNetwork.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../common/IInterface.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../net/TCPSocket.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../net/IDataSocket.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../net/ISocket.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../io/IStream.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../base/IEventQueue.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../io/StreamBuffer.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../common/stdlist.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../common/stdvector.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../mt/CondVar.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../mt/Mutex.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../arch/IArchMultithread.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../ipc/Ipc.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../ipc/IpcServerProxy.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../ipc/IpcMessage.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../base/TMethodEventJob.h \
+  /Users/kshaikh/Downloads/synergy-master/src/lib/ipc/../base/IEventJob.h

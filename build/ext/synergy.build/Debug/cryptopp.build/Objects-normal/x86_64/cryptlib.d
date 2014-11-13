@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/cryptlib.cpp \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/pch.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/config.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/cryptlib.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/stdcpp.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/misc.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/smartptr.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/filters.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/simple.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/secblock.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/queue.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/algparam.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/fips140.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/argnames.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/fltrimpl.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/trdlocal.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/osrng.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/randpool.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/rng.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/aes.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/rijndael.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/seckey.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/sha.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/iterhash.h

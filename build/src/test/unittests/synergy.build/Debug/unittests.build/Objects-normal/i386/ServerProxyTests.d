@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/client/ServerProxyTests.cpp \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../test/mock/client/MockClient.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/client/Client.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/synergy/IClient.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/synergy/clipboard_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/basic_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/common.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../../config.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/synergy/IScreen.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/base/Event.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdmap.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdpre.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdpost.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/base/EventTypes.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/IInterface.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/synergy/key_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/synergy/mouse_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/synergy/option_types.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdvector.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/base/String.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/common/stdstring.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/synergy/IClipboard.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/synergy/DragInformation.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/synergy/INode.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/net/NetworkAddress.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/arch/IArchNetwork.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/io/CryptoOptions.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/io/ECryptoMode.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../test/global/gmock.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../test/mock/io/MockStream.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/io/IStream.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/base/IEventQueue.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../test/mock/synergy/MockEventQueue.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/client/ServerProxy.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/base/Stopwatch.h \
+  /Users/kshaikh/Downloads/synergy-master/src/test/unittests/../../lib/synergy/protocol_types.h

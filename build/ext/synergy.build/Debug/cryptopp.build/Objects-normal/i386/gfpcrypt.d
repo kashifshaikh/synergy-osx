@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/gfpcrypt.cpp \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/pch.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/config.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/gfpcrypt.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/pubkey.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/modarith.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/cryptlib.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/stdcpp.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/misc.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/smartptr.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/integer.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/secblock.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/algebra.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/filters.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/simple.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/queue.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/algparam.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/eprecomp.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/fips140.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/argnames.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/modexppc.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/sha.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/iterhash.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/asn.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/hmac.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/seckey.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/oids.h \
+  /Users/kshaikh/Downloads/synergy-master/ext/cryptopp562/nbtheory.h
